@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mode_ready">Snake\nBy Kandarp Khandwala\nTouch the screen to begin</string>
+    <string name="mode_pause">Game Paused\nTouch the screen to continue</string>
+    <string name="mode_lose_prefix">Game Over\nScore: </string>
+    <string name="mode_lose_prefix_cr">You have a new record!\nScore: </string>
+    <string name="mode_lose_suffix">\nTouch the screen to start a new game</string>
+    <string name="score">Score: </string>
+    <string name="menu_about">About</string>
+    <string name="menu_settings">Settings</string>
+    <string name="about_title">Snake</string>
+    <string name="about_text">Kandarp Khandwala\nD17B - 13\nVivekanand Education Society\'s Institute of Technology\nkandarpck@gmail.com\n+919969961993\n</string>
+
+</resources>
